@@ -1,5 +1,5 @@
 baseURL = "https://gazey.dev"
-title   = "Hello Friend NG"
+title   = "Gazey's Game Dev Blog"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -118,13 +118,13 @@ disableHugoGeneratorInject = false
   # plausibleScriptSource = 'https://plausible.io/js/script.js'
 
   [params.author]
-    name = "Jane Doe"
+    name = "Cameron Gazey"
 
   # Custom footer
   # If you want, you can easily override the default footer with your own content.
   #
   [params.footer]
-    trademark = 2023
+    trademark = 2025
     rss = true
     copyright = true
     author = true
