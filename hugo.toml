@@ -1,12 +1,12 @@
 baseURL = "https://gazey.dev"
-title   = "Gazey's Game Dev Blog"
+title   = "Cameron Gazey"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+copyright = "This work is licensed under a Creative Commons Attribution 4.0 International License." # This message is only used by the RSS template.
 
 archetypeDir = "archetypes"
 contentDir   = "content"
@@ -68,7 +68,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = ""
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -149,11 +149,11 @@ disableHugoGeneratorInject = false
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
-    # logoCursorColor    = "#67a2c9"
+    logoCursorColor    = "#00ff00"
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     # logoCursorAnimate  = "2s"
     # Append the current url pathname to logoText
-    # logoCursorPathname = true
+    logoCursorPathname = true
 
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Addon: Startpage portrait
@@ -223,38 +223,38 @@ disableHugoGeneratorInject = false
   # Addon: Social icons
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   #
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
+  #[[params.social]]
+  #  name = "twitter"
+  #  url  = "https://twitter.com/"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:camerongazey@live.ca"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/skaarjslayer"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/camerongazey"
 
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+  #[[params.social]]
+  #  name = "stackoverflow"
+  #  url  = "https://www.stackoverflow.com/"
 
 [languages]
   [languages.en]
     weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright = '<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>'
   [languages.en.params]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = ""
 
   [languages.fr]
     weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright = '<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>'
   [languages.fr.params]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = ""
 
 [menu]
   [[menu.main]]
