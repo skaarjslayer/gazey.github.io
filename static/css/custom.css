@@ -1,0 +1,24 @@
+figure.center {
+    display: block !important;
+    width: 100%;
+    text-align: center;
+    margin: 25px auto;
+}
+
+figure.center img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+figure.center figcaption {
+    text-align: center !important;
+    font-size: 0.75rem !important; /* 12px - smaller than default 14px */
+}
+
+/* Fix letter spacing/kerning only for post/article content */
+.post .post-content {
+  letter-spacing: normal !important;
+  font-kerning: normal !important;
+  text-rendering: optimizeLegibility !important;
+}
