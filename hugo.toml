@@ -269,3 +269,7 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  [[menu.main]]
+    identifier = "resume"
+    name       = "Resume"
+    url        = "/files/resume.pdf"
