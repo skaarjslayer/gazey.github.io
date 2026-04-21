@@ -3,7 +3,7 @@ title: "About"
 draft: false
 ---
 
-![Alt text](/images/cameron.jpg)
+![Photo of the website owner](/images/cameron.jpg)
 
 My name is Cameron Gazey. I am a Canadian game developer living in our nation's capital of Ottawa, ON with my wife Sara.
 
@@ -11,6 +11,8 @@ My relationship with making games goes back to my childhood. As early as I can r
 
 But what impacted me most was that Unreal shipped with its own level editor (called UnrealEd at the time). I realized that making games was something I could actually learn how to do. I spent endless hours reading tutorials and tinkering around in the editor, and dreamt of being able to build worlds that would be as impactful to them as the world of Unreal was to me.
 
-This site is open-source. All changes made can be tracked [here](https://github.com/skaarjslayer/gazey.github.io).
+The thoughts and opinions posted on this website are my own, and do not necessarily reflect the thoughts and opinions of employers, be they past, present, or future.
+
+This website is open source. All changes made to it can be tracked [here](https://github.com/skaarjslayer/gazey.github.io).
 
 You can find my AI usage disclaimer for this website [here](https://gazey.dev/ai/).
